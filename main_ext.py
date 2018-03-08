@@ -41,9 +41,7 @@ def main():
         sys.exit('Error! Syntax: {} <infile> <outfile>'.format(sys.argv[0]))
 
     rides, rows, cols, n_vehicles, n_rides, bonus, periods = read_file(sys.argv[1])
-
     output = assign_rides(rides, n_vehicles)
-
     write_file(sys.argv[2], output)
 
 if __name__ == '__main__':
