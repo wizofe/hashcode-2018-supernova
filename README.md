@@ -3,8 +3,8 @@
 This is our submission for the qualification round of Google Hashcode 2018, Team Supernova U.K. For more information about the problem and the input files, take a look [here]():
 
 ## Team Supernova:
-Markus Löning \
-Ioannis Valasakis
+Markus Löning [@mloning](https://github.com/mloning)\
+Ioannis Valasakis [@wizofe](https://github.com/wizofe)
 
 ## Reflection
 - 36 lines of code -> 11,676,770 points 
